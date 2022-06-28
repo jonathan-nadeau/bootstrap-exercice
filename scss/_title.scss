@@ -1,0 +1,14 @@
+.title {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  max-width: 40rem;
+
+  hr {
+    margin: 30px 0;
+    width: 50px;
+    border-width: 3px;
+    opacity: 1;
+  }
+}

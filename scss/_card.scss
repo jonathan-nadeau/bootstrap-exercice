@@ -1,0 +1,9 @@
+@import '../bootstrap/scss/variables';
+
+.card {
+  background-color: $light;
+  i {
+    font-size: 2rem;
+    color: $primary;
+  }
+}

@@ -1,0 +1,11 @@
+@import '../bootstrap/scss/variables';
+@import '../bootstrap/scss/bootstrap';
+
+.btn {
+  @extend .btn;
+  @extend .py-2;
+  @extend .px-4;
+  @extend .fw-bold;
+  @extend .w-auto;
+  @extend .rounded-5;
+}
